@@ -1,0 +1,36 @@
+.main{
+    display: float;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    height: 3em;
+    width: 100%;
+    left: 0;
+    background-color: rgb(83, 63, 63);
+}
+
+nav{
+    background-color: rgb(83, 63, 63);
+    color: whitesmoke;
+    height: 2em;
+    width: 100%;
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    border: solid 1px whitesmoke;
+}
+
+aside{
+    float: right;
+    width: 12em;
+    background-color: orange;
+}
+
+article{
+    background-color: green;
+    float: left;
+}
